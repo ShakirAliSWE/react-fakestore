@@ -28,3 +28,5 @@ npm start
 ```
 
 5. Visit http://localhost:3000/ in your browser to view the React-Fake-Store application.
+
+Demo https://shakir-reactfakestore.netlify.app/
