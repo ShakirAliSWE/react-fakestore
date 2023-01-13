@@ -1,20 +1,20 @@
-# React-Fake-Store
-React-Fake-Store is an open source project that allows you to create a fake online store using React. With React-Fake-Store, you can easily create a fake store with dummy products and pricing information, allowing you to easily test and demo your shopping cart and checkout process.
+# React-FakeStore
+React-FakeStore is an open source project that allows you to create a fake online store using React. With React-Fake-Store, you can easily create a fake store with dummy products and pricing information, allowing you to easily test and demo your shopping cart and checkout process.
 
 ## Installation
 
 ### Prerequisites
-Before you can install React-Fake-Store, you will need to have Node.js installed. You can download Node.js [here](https://nodejs.org/en/).
+Before you can install React-FakeStore, you will need to have Node.js installed. You can download Node.js [here](https://nodejs.org/en/).
 
 ### Installation Steps
-1. Clone the React-Fake-Store repository from GitHub.
+1. Clone the React-FakeStore repository from GitHub.
 ```
-git clone https://github.com/username/react-fake-store.git
+git clone https://github.com/ShakirAliSWE/react-fakestore.git
 ```
 
 2. Navigate to the project directory.
 ```
-cd react-fake-store
+cd react-fakestore
 ```
 
 3. Install the Node.js dependencies.
@@ -22,7 +22,7 @@ cd react-fake-store
 npm install
 ```
 
-4. Start the React-Fake-Store application.
+4. Start the React-FakeStore application.
 ```
 npm start
 ```
