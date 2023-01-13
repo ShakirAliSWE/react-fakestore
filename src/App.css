@@ -1,0 +1,28 @@
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+.custom-product-card {
+  text-align: center;
+  padding: 1rem;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  margin: 0.2rem;
+  box-shadow: 0 2px 4px rgb(126 142 177 / 12%);
+}
+
+.custom-product-card:hover {
+  background-color: #eee;
+  border-bottom: 2px solid #0d6efd;
+  cursor: pointer;
+}
+
+.custom-text-one-line {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* number of lines to show */
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
